@@ -1,4 +1,4 @@
-name: 'util'
+name: 'meeting'
 description: '새로운 기능 또는 명세가 있나요?'
 body:
  - type: markdown
