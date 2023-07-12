@@ -1,5 +1,6 @@
 name: '🐞 bug'
 description: '버그가 발생했나요?'
+title: '[bug] '
 labels: '🐞 bug'
 body:
   - type: textarea
